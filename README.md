@@ -5,12 +5,14 @@ It is a fun Math game for kids that tests your wit and response time. :grin:
 
 Here's the icon
 
+![Game Icon Here](/Java-MathGame-master/src/img/frans_xter.jpg "FransMathGame Icon")
+
 + [Download Game Icon Here](/Java-MathGame-master/src/img/frans_xter.jpg "FransMathGame Icon")
 
 Let's see what this project actually is made up of...
 
 1. Its a java based application wrapped as an exe. 
-2. It's minimum requirement is Java version 1.8.0_172.
+2. It's minimum requirement is Java version 1.8.0_172. If you experience any Java issues please download it here [Download Java Here](https://java.com/en/download/ "Java Download")
 3. It has a swing java UI, if you don't know what this is, please refer to https://docs.oracle.com/javase/tutorial/uiswing/ .
 
 ***
